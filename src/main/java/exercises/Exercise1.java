@@ -11,13 +11,5 @@ public class Exercise1 {
 
         return num1/num2;
 
-
-//        Number result = null;
-//        try {
-//            result = num1 / num2;
-//        } catch (ArithmeticException e) {
-//            System.err.println("Cannot divide by zero");
-//        }
-//        return result;
     }
 }
